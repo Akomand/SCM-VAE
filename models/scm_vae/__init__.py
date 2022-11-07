@@ -1,0 +1,1 @@
+from models.scm_vae.lightning_module import SCM_VAE
