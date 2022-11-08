@@ -75,8 +75,8 @@ Experiments are run on the following datasets to evaluate our model:
 If you use our code or think our work is relevant to yours, we encourage you to cite this paper:
 
 ```bibtex
-@INPROCEEDINGS{komandbayesian,
-  author={Komanduri, Aneesh },
+@INPROCEEDINGS{komanduri2022,
+  author={Komanduri, Aneesh and Wu, Yongkai and Huang, Wen and Chen, Feng and Wu, Xintao},
   booktitle={2022 IEEE International Conference on Big Data}, 
   title={SCM-VAE: Learning Identifiable Causal Representations via Structural Knowledge}, 
   year={2022}
